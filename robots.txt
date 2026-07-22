@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-p6pb5v.tidytile.com/sitemap.xml
